@@ -1,4 +1,4 @@
-# cinema App Backend Module
+# Cinema App Backend Module
 
 The backend module for the Cinema App 2022. 
 It handles all the business logic of our application and communicates with the database.
